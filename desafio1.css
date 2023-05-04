@@ -1,0 +1,72 @@
+* { 
+  font-family: 'Poppins', sans-serif;
+  margin:0 ;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.image-logo {
+  width: 595.18px;
+  height: 500px;
+  margin-left: 121px;
+  display: inline-block;
+}
+
+header {
+  
+  margin: 47px 0px 178px 42px ; 
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 21px;
+  color: #17233D;
+}
+.link-header {
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 21px;
+  color: #17233D;
+  cursor: default;
+  margin-right: 32px;
+}
+
+.sign-up {
+  background: #6FBF44;
+  border: 1px solid #4CB538;
+  border-radius: 6px;
+  width: 124px;
+  height: 51px;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 24px;
+  color: #FFFFFF;
+ }
+
+ section {
+  display: inline-block;
+  margin-left: 96px;
+ }
+
+  h1 {
+  font-weight: 700;
+  font-size: 62px;
+  line-height: 82px;
+  color: #161A49;
+  }
+    p {
+      font-weight: 400;
+      font-size: 18px;
+      line-height: 33px;
+      color: #4B505A;     
+      width: 400px; 
+      margin-top: 47px ;
+      margin-bottom: 55px ;
+    }
+
+      .learn-more {
+      font-weight: 500;
+      font-size: 18px;
+      line-height: 27px;
+      color: #6FBF44;
+      }
+
+
